@@ -2,7 +2,7 @@
 #define E
 ImFont* m_pFont;
 
-DWORD_PTR Uworld;
+DWORD_PTR uWorld;
 DWORD_PTR LocalPawn;
 DWORD_PTR PlayerState;
 DWORD_PTR Localplayer;
